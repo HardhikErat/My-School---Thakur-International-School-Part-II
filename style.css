@@ -1,0 +1,23 @@
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+
+.img-container {
+text-align: center;
+}
+h1{
+    color: blue;
+}
+
+*{
+    border: solid
+}
+
+.data2 {
+    background-color: aquamarine;
+}
+.data {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
